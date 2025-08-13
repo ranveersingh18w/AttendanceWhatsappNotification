@@ -1,0 +1,5 @@
+Flask
+supabase
+twilio
+schedule
+gunicorn
